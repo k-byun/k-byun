@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-Updates
+#### 🤔 I’m looking for help with ...
 
+Any open projects that I can get my hands on that require skills such as:
+
+* Basic JS/node.js/TS/vue.js/React projects
+* Powershell
+* IoT
+* Development with MS Hololens
 
 <!--
 **k-byun/k-byun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
