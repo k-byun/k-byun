@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 #### 🤔 I’m looking for help with ...
 
 Any open projects that I can get my hands on that require skills such as:
@@ -9,7 +9,7 @@ Any open projects that I can get my hands on that require skills such as:
 * IoT
 * Development with MS Hololens
 
-<!--
+
 **k-byun/k-byun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
